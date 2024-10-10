@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Frontend Developer | React.js | Next.js</h2>
+<h2 align="center"> Frontend Developer | React.js | Next.js </h2>
 
 ###
 
